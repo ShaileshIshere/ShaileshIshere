@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/db/33/9f/db339ff5e9ceff3d40da442507574f10.gif" width="1000" height="500">  
+  <img src="https://i.pinimg.com/originals/db/33/9f/db339ff5e9ceff3d40da442507574f10.gif" width="1000" height="400">  
 </p>
 
 <h1 align="center">Hi 👋, I'm shailesh</h1>
